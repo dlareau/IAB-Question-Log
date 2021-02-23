@@ -1,7 +1,7 @@
-## IAB Question Log
+## Inside a Blaseball Historical Question Log
 
-The questions below have been sourced from the following Q/A Transcript and are presented here in categories for easy viewing.
-https://www.notion.so/Cliff-s-Notes-Q-A-Archive-ba2a2ede574d4b85ace0c577fba492e1
+The questions below have been sourced from [Cliff's Q/A Transcript](https://www.notion.so/Cliff-s-Notes-Q-A-Archive-ba2a2ede574d4b85ace0c577fba492e1) and are presented here in categories for easy viewing.
+
 
 ### Questions About Life
 #### IAB 1 (2020-11-11)
