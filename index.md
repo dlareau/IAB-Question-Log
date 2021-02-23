@@ -1,9 +1,7 @@
-## Inside a Blaseball Historical Question Log
-
 The questions below have been sourced from [Cliff's Q/A Transcript](https://www.notion.so/Cliff-s-Notes-Q-A-Archive-ba2a2ede574d4b85ace0c577fba492e1) and are presented here in categories for easy viewing.
 
 
-### Questions About Life
+## Questions About Life
 #### IAB 1 (2020-11-11)
  - What are you majoring in? wrong answers only.
  - What piece of media scared each of you the most?
@@ -32,7 +30,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - Other than Blaseball, what are you most proud of?
 
 
-### Factual Blaseball Dev Questions
+## Factual Blaseball Dev Questions
 #### IAB 1 (2020-11-11)
  - Were there moments you fudged the rolls?
  - What is the process for what mechanics to include in elections?
@@ -72,7 +70,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - If the Shoe Thieves had won, would the Hall Stars battle still have happened?
 
 
-### Opinion Based Blaseball Dev Questions
+## Opinion Based Blaseball Dev Questions
 #### IAB 1 (2020-11-11)
  - What do you wish we knew about Blaseball that we don't?
  - Who would direct the Blaseball movie?
@@ -96,7 +94,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - Do you have a favorite concept/mechanic that you couldn't find a mechanic/concept for?
 
 
-### Community Oriented Questions
+## Community Oriented Questions
 #### IAB 1 (2020-11-11)
  - Have there been moments where you've just been fans, not devs?
  - What was the most unexpected community thing?
