@@ -1,4 +1,4 @@
-The questions below have been sourced from [Cliff's Q/A Transcript](https://www.notion.so/Cliff-s-Notes-Q-A-Archive-ba2a2ede574d4b85ace0c577fba492e1) and are presented here in categories for easy viewing.
+The questions below have been sourced from [Cliff's Q/A Transcript](https://www.notion.so/Cliff-s-Notes-Q-A-Archive-ba2a2ede574d4b85ace0c577fba492e1) and are presented here in categories for easy viewing. You can also head over there to see the answers to any of the below questions.
 
 ## Questions About Life
 #### IAB 1 (2020-11-11)
