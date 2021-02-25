@@ -1,14 +1,14 @@
 The questions below have been sourced from [Cliff's Q/A Transcript](https://www.notion.so/Cliff-s-Notes-Q-A-Archive-ba2a2ede574d4b85ace0c577fba492e1) and are presented here in categories for easy viewing. You can also head over there to see the answers to any of the below questions.
 
 ## Questions About Life
-#### IAB 1 (2020-11-11)
+#### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [What are you majoring in? wrong answers only.](https://www.notion.so/What-are-you-majoring-in-wrong-answers-only-07c35954b35b4d7b8f89aab9754a2c3e)
  - [What piece of media scared each of you the most?](https://www.notion.so/What-piece-of-media-scared-each-of-you-the-most-Interpreted-as-not-necessarily-Blaseball-related-6bf1f676ef9b44dc9643225ee7e4db0d)
  - [What is your favorite pizza?](https://www.notion.so/Favourite-Pizza-a08ee8a0edb84f90aa32af949833207f)
  - [What is your spice-sona (OC)?](https://www.notion.so/Spice-sona-OC-5b5e4bb18a7b4947a6879b958c313e33)
  - [What are your favorite ice cream flavors?](https://www.notion.so/What-are-your-fave-ice-cream-flavours-3374e7b84f0d44e59dd24662d2643521)
 
-#### IAB 2 (2020-12-15)
+#### [IAB 2 (2020-12-15)](https://www.notion.so/2020-12-15-Inside-a-Blaseball-Q-A-6b38797f3d8c458aaf701e840694eb97)
  - [What is your favorite obscure emoji?](https://www.notion.so/Favourite-Obscure-Emoji-ea1d0f7196c14c47938127ce41c4ed87)
  - [What's your goty other than Blaseball?](https://www.notion.so/What-s-your-goty-other-than-blaseball-2fbfbe2337f84cbda02cb696d65e2742)
  - [How would you describe your soulsmell?](https://www.notion.so/How-would-you-describe-your-soulsmell-b491815914e24abbb3dbab141fa60298)
@@ -18,7 +18,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [Side Q from Joel: What is your favorite Game Jam game you've worked on?](https://www.notion.so/Side-Q-from-Joel-Favourite-Game-Jam-game-you-ve-worked-on-3c3934a88c9e47b19f364e4811dcf07e)
  - [What's your favorite kind of soup?](https://www.notion.so/What-s-your-favourite-kind-of-soup-71351bc6a7364f83b715f13842bacd5a)
 
-#### IAB 3 (2021-01-15)
+#### [IAB 3 (2021-01-15)](https://www.notion.so/2021-01-15-Inside-a-Blaseball-Q-A-87061009c5ec40b99cebbcee064f081d)
  - [Joel, can you talk about self-care for two minutes?](https://www.notion.so/Joel-can-you-talk-about-self-care-for-two-minutes-b94124877550493b88b4d0e2025cdceb)
  - [Which dev do you consider most like a deep fried mozzarella stick?](https://www.notion.so/Which-dev-do-you-consider-most-like-a-deep-fried-mozzarella-stick-84a44494a5aa4d5da282ead54b94e470)
  - [Where did "the game band" come from?](https://www.notion.so/Where-did-the-game-band-come-from-cad51c15f44a406d88ab60865363a627)
@@ -30,7 +30,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
 
 
 ## Factual Blaseball Dev Questions
-#### IAB 1 (2020-11-11)
+#### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [Were there moments you fudged the rolls?](https://www.notion.so/Are-there-moments-you-fudged-the-rolls-4023a74dc232484ab719c56bd5a57cff)
  - [Will the season schedule be changing after the siesta?](https://www.notion.so/Will-the-season-schedule-be-changing-after-the-siesta-3c5f4b21c9cb494dbb456787129335dc)
  - [What does TGB envision Non-Beta Blaseball as?](https://www.notion.so/What-does-TGB-envision-Non-Beta-Blaseball-as-108cb7994b9148cbb60b54f96db9c907)
@@ -44,7 +44,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [How much does one season cost to produce?](https://www.notion.so/How-much-does-one-season-cost-to-produce-4aad64c3332d44dbb2a907a895df3914)
  - [What was the thought process behind hometowns?](https://www.notion.so/What-was-the-thought-process-behind-hometowns-2ba20f8820154bdcb725bd0ced8cc9a6)
 
-#### IAB 2 (2020-12-15)
+#### [IAB 2 (2020-12-15)](https://www.notion.so/2020-12-15-Inside-a-Blaseball-Q-A-6b38797f3d8c458aaf701e840694eb97)
  - [Out of kayfabe, how did the Wyatt Masoning (and the Unslam?) happen?](https://www.notion.so/Out-of-Kayfabe-how-did-the-Wyatt-Masoning-and-the-Unslam-happen-5bc266cdccbf4aec9c6e845c735f4e1a)
  - [Were Blagonballs inspired by Goku (Discord) and can we know more about them?](https://www.notion.so/Were-Blagonballs-inspired-by-Goku-Discord-and-can-we-know-more-about-them-0950c244aa464b3eb72c699bf3b2ac84)
  - [Why is there no scroll bar on the Blaseball website?](https://www.notion.so/Why-is-there-no-scroll-bar-on-the-blaseball-website-31c421fbf86d4f748e6897027748add0)
@@ -66,7 +66,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [What's the deal with Uncle Plasma and Liquid Friend? Was it just a joke, or is there more?](https://www.notion.so/What-s-the-deal-with-Uncle-Plasma-and-Liquid-Friend-Was-it-just-a-joke-or-is-there-more-2767ed72c2404fffa0d034c7dc5bd482)
  - [Why are the Dale specifically the life of the party?](https://www.notion.so/Why-are-the-Dale-specifically-the-life-of-the-party-143103131c444a73b6f5038e94df7bdd)
 
-#### IAB 3 (2021-01-15)
+#### [IAB 3 (2021-01-15)](https://www.notion.so/2021-01-15-Inside-a-Blaseball-Q-A-87061009c5ec40b99cebbcee064f081d)
  - [Why did sharing signs remove fingers in season 10, but not in season 6?](https://www.notion.so/Why-did-sharing-signs-remove-fingers-in-season-10-but-not-in-season-6-1759dd411f694c448eec1a9d0aa4a60e)
  - [Did you have plans for a world where the book wasn't opened in season 1?](https://www.notion.so/Did-you-have-plans-for-a-world-where-the-book-wasn-t-opened-in-season-1-07efab213f714fc2b186e6d8dd80fb54)
  - [Don Mitchell is the only player with Reverberating. Are they unique, or..?](https://www.notion.so/Don-Mitchell-is-the-only-player-with-Reverberating-Are-they-unique-or-58b68996915348818ad5c5ea8a54b1f1)
@@ -74,7 +74,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
 
 
 ## Opinion Based Blaseball Dev Questions
-#### IAB 1 (2020-11-11)
+#### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [What do you wish we knew about Blaseball that we don't?](https://www.notion.so/What-do-you-wish-we-knew-about-blaseball-that-we-don-t-95e8287da348430489ea1908f2933dcd)
  - [What was one of the most delightful bugs/mistakes in Blaseball so far?](https://www.notion.so/One-of-the-most-delightful-bugs-mistakes-in-Blaseball-so-far-53b6cb344d74439a9846a219485c09d4)
  - [Who would direct the Blaseball movie?](https://www.notion.so/Who-would-direct-the-Blaseball-movie-d8073945b94341868cb2fa421991948b)
@@ -86,7 +86,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [What was your favorite decree that didn't pass?](https://www.notion.so/Favourite-decree-that-didn-t-pass-c077a586eed1422f9201b8a3b30e280e)
  - [Do you find it tough to reward fanbase creativity while keeping game balance?](https://www.notion.so/Do-you-find-it-tough-to-reward-fanbase-creativity-while-keeping-game-balance-be70107c3e0946f9ad913c27c0df67cb)
 
-#### IAB 2 (2020-12-15)
+#### [IAB 2 (2020-12-15)](https://www.notion.so/2020-12-15-Inside-a-Blaseball-Q-A-6b38797f3d8c458aaf701e840694eb97)
  - [What if Blaseball was a snail racing sim?](https://www.notion.so/What-if-blaseball-was-a-snail-racing-sim-acdf7ad2fbec4118bd7f644df9bca217)
  - [If not for the Wyatt Masoning, Which player would you have wanted to have proliferate over their roster?](https://www.notion.so/If-not-for-the-WMing-Which-player-would-you-have-wanted-to-have-proliferate-over-their-roster-9bbd5aed125746f1aa2dda8f9f236c76)
  - [What scrapped blessing would you like to see come back once you've broken some stuff down a bit more](https://www.notion.so/What-scrapped-blessing-would-you-like-to-see-come-back-once-you-ve-broken-some-stuff-down-a-bit-more-5bdce893ab384162880eb949b6de4dc1)
@@ -94,7 +94,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [If you had to spend one day as a Blaseball player, who and why?](https://www.notion.so/If-you-had-to-spend-one-day-as-a-blaseball-player-who-and-why-d5d4d602a4be46899ae49dad304696eb)
  - [What Christmas gifts should I get for Parkers III-IIIII?](https://www.notion.so/What-christmas-gifts-should-I-get-for-parkers-3-5-8f62c85e7bf0426d81ad1a50d637c059)
 
-#### IAB 3 (2021-01-15)
+#### [IAB 3 (2021-01-15)](https://www.notion.so/2021-01-15-Inside-a-Blaseball-Q-A-87061009c5ec40b99cebbcee064f081d)
  - [What is your favorite part of Blaseball cosmology that you can share, would you compile them into a book at some point?](https://www.notion.so/What-is-your-favorite-part-of-blaseball-cosmology-that-you-can-share-would-you-compile-them-into-a--07c1efbc679546e7abe763d12365fabc)
  - [If you could add any sound other than peanut crunching/foghorn noises, what would you add?](https://www.notion.so/If-you-could-add-any-sound-other-than-peanut-crunching-foghorn-noises-what-would-you-add-4de8382256aa4c2fa12eff19a2e25302)
  - [What is your blasesona](https://www.notion.so/What-is-your-blasesona-52b1f6b850f24d7987d6150c16c9f4b2)
@@ -106,7 +106,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
 
 
 ## Community Oriented Questions
-#### IAB 1 (2020-11-11)
+#### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [what](https://www.notion.so/what-51dba75aed3048699048656ca5cfdf19)
  - [What was the most unexpected community thing?](https://www.notion.so/What-was-the-most-unexpected-community-thing-b4a27610afeb482680e066c53f26da4e)
  - [What is the biggest takeaway you learned from the community, and how are you incorporating that?](https://www.notion.so/Biggest-takeaway-learned-from-community-how-are-you-incorporating-that-8d6364ffebf34ff892b1ef26b7bd5d95)
@@ -114,12 +114,12 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [Have there been moments where you've just been fans, not devs?](https://www.notion.so/Have-there-been-moments-where-you-ve-just-been-fans-not-devs-475e8924068247efaf9d9244a6cf6394)
  - [Who is your favorite player, and why is it richmond harrison?](https://www.notion.so/Who-is-your-favourite-player-and-why-is-it-richmond-harrison-00da95fb7b1a43c99d35154729cf39a3)
 
-#### IAB 2 (2020-12-15)
+#### [IAB 2 (2020-12-15)](https://www.notion.so/2020-12-15-Inside-a-Blaseball-Q-A-6b38797f3d8c458aaf701e840694eb97)
  - [How does it feel to have Goku as a fan/friend/occasional legal counsel? Also, does this mean blaseball is an anime?](https://www.notion.so/How-does-it-feel-to-have-Goku-as-a-fan-friend-occasional-legal-counsel-Also-does-this-mean-blaseba-6889c8c827934766a21d15a6ebc24c65)
  - [Can we have a series between the Pandemonium Artists and SIBR for bragging rights?](https://www.notion.so/Can-we-have-a-series-between-the-Pandemonium-Artists-and-SIBR-for-bragging-rights-46c83ee8d6d64443a1ad7dd99b4f6f5d)
  - [Where's the recording from November?](https://www.notion.so/Where-s-the-recording-from-November-5590ba8f571b4d72b85b3580dcbe2a82)
 
-#### IAB 3 (2021-01-15)
+#### [IAB 3 (2021-01-15)](https://www.notion.so/2021-01-15-Inside-a-Blaseball-Q-A-87061009c5ec40b99cebbcee064f081d)
  - [How is ump_admin_pope_sunman doing? Are they okay? Do they want a care package?](https://www.notion.so/How-is-ump_admin_pope_sunman-doing-Are-they-ok-Do-they-want-a-care-package-47ea3adabf354eea8518cc3ccbdf1d08)
  - [You've said that parker is banned from discord, why is he banned, can he get back in someday?](https://www.notion.so/You-ve-said-that-parker-is-banned-from-discord-why-is-he-banned-can-he-get-back-in-someday-9642bf07591b4c198624eeac3cf56e9d)
  - [What beef do y'all have with the Ohio Astronauts?](https://www.notion.so/What-beef-do-y-all-have-with-the-Ohio-Astronauts-6e0a5bcff5b946e8ae8c014189d022a3)
