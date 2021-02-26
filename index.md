@@ -28,6 +28,16 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [What movie/show have you rewatched most?](https://www.notion.so/What-movie-show-have-you-rewatched-most-efce8743ec7943f1942164f44dcfb698)
  - [Other than Blaseball, what are you most proud of?](https://www.notion.so/Other-than-Blaseball-what-are-you-most-proud-of-c88313047de6423089f6c30a35b910b0)
 
+#### [IAB 4 (2021-02-25)](https://www.notion.so/2021-02-25-Inside-a-Blaseball-Q-A-12802ac9c93e48c6ac7ac2d5782d2134)
+ - [What's the best soda?](https://www.notion.so/What-s-the-best-soda-724b6fe3ce4444c8be38358db0e6f5ab)
+ - [What is your ideal breakfast?](https://www.notion.so/What-is-your-ideal-breakfast-86570965d5ed45079d1858b812fe9ce0)
+ - [What are your favorite colors?](https://www.notion.so/What-are-your-faborite-Colors-c3df468d6592410a82a6c2e92fce59a0)
+ - [As a team building exercise, can you count from 1 to 10 in order with no repeats](https://www.notion.so/As-a-team-building-exercise-can-you-count-from-1-to-10-with-no-repeats-765333916cab4fcc98a5d3f6ed0e62e1)
+ - [Current Favorite music album?](https://www.notion.so/Favorite-current-favorite-music-album-6e556b8caae64290ae554c06fa702a8c)
+ - [If you were cremated and had your ashes made into a vinyl, what song would be on it](https://www.notion.so/If-you-were-cremated-and-had-your-ashes-made-into-a-vinyl-what-song-5b20305eb07f474aa93fccb85bf08c0d)
+ - [If you had to pick a vegetable to sell at baseball/blaseball games, which one would it be, and why?](https://www.notion.so/If-you-had-to-pick-a-vegetable-to-sell-at-baseball-blaseball-games-which-one-and-why-621ea96676ce4902bc443d5ea1ace16c)
+ - [What is one piece of media that would make someone understand your inspiration for making games?](https://www.notion.so/If-any-of-you-could-subject-someone-to-one-piece-of-media-to-make-them-understand-your-inspiration-f-c6fbd98feb9d4e969277ba08c8e6c5d6)
+
 
 ## Factual Blaseball Dev Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
@@ -72,6 +82,15 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [Don Mitchell is the only player with Reverberating. Are they unique, or..?](https://www.notion.so/Don-Mitchell-is-the-only-player-with-Reverberating-Are-they-unique-or-58b68996915348818ad5c5ea8a54b1f1)
  - [If the Shoe Thieves had won, would the Hall Stars battle still have happened?](https://www.notion.so/If-the-Shoe-Thieves-had-won-would-the-Hall-Stars-battle-still-have-happened-f44477b4765b409d8fe88c12f9ee3dec)
 
+#### [IAB 4 (2021-02-25)](https://www.notion.so/2021-02-25-Inside-a-Blaseball-Q-A-12802ac9c93e48c6ac7ac2d5782d2134)
+ - [What are the 9 days in a Blaseball week called?](https://www.notion.so/Weekly-Statuses-imply-that-a-week-in-Blaseball-is-9-days-long-What-are-they-called-2a016b43a9624ee79ebeb40ae2c11ac6)
+ - [What was the process you went through to come up with the first set of names?](https://www.notion.so/What-was-the-process-you-went-through-to-come-up-with-the-first-set-of-names-before-the-Patreon-egg-8afb7280169f4653933771b63515b726)
+ - [Are there plans for other official media than just the site?](https://www.notion.so/Are-there-plans-for-other-Official-media-than-just-the-site-3ea2fe7084ba4700aa83b16e136d7948)
+ - [Will the rich be eaten at the top of Season 12?](https://www.notion.so/Will-the-rich-be-eaten-at-the-top-of-s12-0f6ee84595bb4ba480826dce3ba5c388)
+ - [Did you implement the Bench/Bullpen/Shadows the way you'd originally intended? Were they supposed to replace incinerated players?](https://www.notion.so/Did-you-implement-the-Bench-Bullpen-in-the-way-you-d-intended-originally-Were-they-supposed-to-rep-be105edc32e24e6ba2ec586d1be6dd8d)
+ - [Can Alx Pineapple and Denim Chilly be put back in the field to return some day?](https://www.notion.so/Can-Alx-Pineapple-and-Denim-Chilly-be-put-back-in-the-field-to-return-some-day-f84391ea5c55402c8f773273faad2a39)
+ - [What happened to the Yellowstone Magic during the Season 1 election?](https://www.notion.so/In-the-season-1-election-there-were-multiple-sets-of-results-with-the-Magic-apparently-doing-reall-0781674d3f8e4e2ca11fef40ebd04312)
+ - [How active of a role did you imagine the fans to have from the beginning?](https://www.notion.so/How-active-of-a-role-did-you-imagine-the-fans-to-have-from-the-getgo-1e238493155b49cc96744b5ac5d0c5ae)
 
 ## Opinion Based Blaseball Dev Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
@@ -104,6 +123,19 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [If you could insert a fictional character into Blaseball, who would it be?](https://www.notion.so/If-you-could-insert-a-fictional-character-into-blaseball-who-would-it-be-f7eaed1d5cbb40ba8cbe0023b0af56d5)
  - [How do you fit a whole team inside a Blaseball?](https://www.notion.so/How-do-you-fit-a-whole-team-inside-a-blaseball-c68033b6a00548f98c9af6c9b3d86ca4)
 
+#### [IAB 4 (2021-02-25)](https://www.notion.so/2021-02-25-Inside-a-Blaseball-Q-A-12802ac9c93e48c6ac7ac2d5782d2134)
+ - [On behalf of the Hawaii Fridays, we would like to know what each of your best Frideas are](https://www.notion.so/On-behalf-of-the-Hawaii-Fridays-we-would-like-to-know-what-each-of-your-best-Frideas-are-05576033e4904c6f901418a1f3793c6b)
+ - [You have to fancast the Blaseball movie. Who plays Parker, who voices the Shelled One, the Coin, the Monitor](https://www.notion.so/You-have-to-fancast-the-Blaseball-movie-who-plays-Parker-who-voices-Shelled-One-Coin-Monitor-014e7c156409481d8c1a44add736e50a)
+ - [Do umpires dream?](https://www.notion.so/Do-umpires-dream-677965f60d88487caacfb9fd304c1581)
+ - [Of the things announced so far, what are you most excited for?](https://www.notion.so/Of-the-things-announced-so-far-what-are-you-most-excited-for-9f3abe4d356c4f25ae7eecad717acf86)
+ - [Do you think the Blaseball gods hide from us out of fear of what they've created, or do they just have busy schedules?](https://www.notion.so/Do-you-think-the-Blaseball-gods-hide-from-us-out-of-fear-of-what-they-ve-created-or-do-they-just-ha-bde717f3c68b4a45ac95df32d34f204c)
+ - [To the members of the Real Game Band who were, how did it feel to get percolated? Why did the keepers get flung into space? How are they doing?](https://www.notion.so/To-those-members-of-the-Real-Game-Band-who-were-how-did-it-feel-to-get-percolated-Why-did-the-keep-045942f7b26c4647b63de0d9b7d13595)
+ - [What is the one thing you really wish you'd known before you started working on Blaseball?](https://www.notion.so/What-is-the-one-thing-you-d-really-wish-you-d-known-before-you-started-working-on-this-68ad9eac65a34d8a9164d37a5d0ce1c4)
+ - [Do you ever have Blaseball themed dreams, and how much anxiety do they cause?](https://www.notion.so/Do-you-ever-have-blaseball-themed-dreams-and-how-much-anxiety-do-they-cause-00843e3527c44173a2d112d7f3db800c)
+ - [How afraid should I be?](https://www.notion.so/How-afraid-should-I-be-c5b27b7f1d95484fb2951e9b3cbcdc42)
+ - [What is life like for people in the Immaterial Plane who can't play Blaseball?](https://www.notion.so/What-is-life-like-for-people-in-the-IP-who-can-t-play-blaseball-91c12db736a7432a8c6b8d3237f10cee)
+ - [How much blase would a blaseball ball if a blaseball could ball blase?](https://www.notion.so/How-much-blase-would-a-blaseball-ball-if-a-blaseball-could-ball-blase-48782a756cbe4f58b145edf16d2f6cda)
+ - [If you could go back to the beginning, what's one structural design you'd like to have in place from the start?](https://www.notion.so/If-you-could-go-back-to-the-beginning-what-s-one-structural-design-you-d-like-to-have-in-place-from-cb68494e81ab4df79858bdecbae8ffd3)
 
 ## Community Oriented Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
@@ -123,3 +155,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [How is ump_admin_pope_sunman doing? Are they okay? Do they want a care package?](https://www.notion.so/How-is-ump_admin_pope_sunman-doing-Are-they-ok-Do-they-want-a-care-package-47ea3adabf354eea8518cc3ccbdf1d08)
  - [You've said that parker is banned from discord, why is he banned, can he get back in someday?](https://www.notion.so/You-ve-said-that-parker-is-banned-from-discord-why-is-he-banned-can-he-get-back-in-someday-9642bf07591b4c198624eeac3cf56e9d)
  - [What beef do y'all have with the Ohio Astronauts?](https://www.notion.so/What-beef-do-y-all-have-with-the-Ohio-Astronauts-6e0a5bcff5b946e8ae8c014189d022a3)
+
+#### [IAB 4 (2021-02-25)](https://www.notion.so/2021-02-25-Inside-a-Blaseball-Q-A-12802ac9c93e48c6ac7ac2d5782d2134)
+ - [What's your favorite thing the community has created so far?]https://www.notion.so/What-s-your-favorite-thing-the-community-has-created-so-far-8503062f1f214563b8a090b8dd36ad97)
+ - [Are TGB aware of SIBR's data crimes? If so, what are your favorites?](https://www.notion.so/Are-TGB-aware-of-SIBR-s-data-crimes-and-if-so-what-are-your-favorites-74d98dd5fe794622a1d1fe535ca30a5b)
