@@ -157,5 +157,5 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [What beef do y'all have with the Ohio Astronauts?](https://www.notion.so/What-beef-do-y-all-have-with-the-Ohio-Astronauts-6e0a5bcff5b946e8ae8c014189d022a3)
 
 #### [IAB 4 (2021-02-25)](https://www.notion.so/2021-02-25-Inside-a-Blaseball-Q-A-12802ac9c93e48c6ac7ac2d5782d2134)
- - [What's your favorite thing the community has created so far?]https://www.notion.so/What-s-your-favorite-thing-the-community-has-created-so-far-8503062f1f214563b8a090b8dd36ad97)
+ - [What's your favorite thing the community has created so far?](https://www.notion.so/What-s-your-favorite-thing-the-community-has-created-so-far-8503062f1f214563b8a090b8dd36ad97)
  - [Are TGB aware of SIBR's data crimes? If so, what are your favorites?](https://www.notion.so/Are-TGB-aware-of-SIBR-s-data-crimes-and-if-so-what-are-your-favorites-74d98dd5fe794622a1d1fe535ca30a5b)
