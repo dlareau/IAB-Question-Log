@@ -38,6 +38,13 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [If you had to pick a vegetable to sell at baseball/blaseball games, which one would it be, and why?](https://www.notion.so/If-you-had-to-pick-a-vegetable-to-sell-at-baseball-blaseball-games-which-one-and-why-621ea96676ce4902bc443d5ea1ace16c)
  - [What is one piece of media that would make someone understand your inspiration for making games?](https://www.notion.so/If-any-of-you-could-subject-someone-to-one-piece-of-media-to-make-them-understand-your-inspiration-f-c6fbd98feb9d4e969277ba08c8e6c5d6)
 
+#### [IAB 5 (2021-03-31)](https://www.notion.so/2021-03-31-Inside-a-Blaseball-Q-A-abeaab505e1c417a9b05876e19666d3a)
+ - [What's everyone's favorite bird](https://www.notion.so/What-s-everyone-s-favorite-bird-4e3d8cc4c9a940079ad2b4d7e65f61bf)
+ - [Is there any piece of writing that jumpstarted your interest in narrative design](https://www.notion.so/Y-all-are-in-the-running-for-a-Nebula-award-Is-there-any-piece-of-writing-that-jumpstarted-your-int-0d40a7758ef444eab1d4433867d38245)
+ - [What's the best way to eat potatoes](https://www.notion.so/What-s-the-best-way-to-eat-potatoes-1b022328f928401c92bd76e3bef7f989)
+ - [Please describe your ideal sandwich](https://www.notion.so/Please-describe-your-ideal-sandwich-c94309fe476a40bc808f897872ef7ddf)
+ - [What is your image of a perfect evening of self-care](https://www.notion.so/What-is-your-image-of-a-perfect-evening-of-self-care-98d0ffd687e340d09510e3aca4f4754b)
+
 
 ## Factual Blaseball Dev Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
@@ -92,6 +99,20 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [What happened to the Yellowstone Magic during the Season 1 election?](https://www.notion.so/In-the-season-1-election-there-were-multiple-sets-of-results-with-the-Magic-apparently-doing-reall-0781674d3f8e4e2ca11fef40ebd04312)
  - [How active of a role did you imagine the fans to have from the beginning?](https://www.notion.so/How-active-of-a-role-did-you-imagine-the-fans-to-have-from-the-getgo-1e238493155b49cc96744b5ac5d0c5ae)
 
+#### [IAB 5 (2021-03-31)](https://www.notion.so/2021-03-31-Inside-a-Blaseball-Q-A-abeaab505e1c417a9b05876e19666d3a)
+ - [Does clutch exist in Blaseball, is it a physical object, what does it taste like](https://www.notion.so/Does-clutch-exist-in-Blaseball-is-it-a-physical-object-what-does-it-taste-like-a62700764a1842c8ad130e1d9d803ae3)
+ - [After the peanuts decree, all the Dans had their name changed to Peanut. Why "Dan"?](https://www.notion.so/After-the-peanuts-decree-all-the-Dans-had-their-name-changed-to-Peanut-Why-Dan-57f078e252a1486caff6671f64d7808a)
+ - [Kinda weird that we have a team based in Hades, but the dead players go somewhere else. Why?](https://www.notion.so/Kinda-weird-that-we-have-a-team-based-in-Hades-but-the-dead-players-go-somewhere-else-Why-d32443d9c29c47d4914eb03aee82c925)
+ - [Does the weather dial get cranked over the course of the season, or is that just how it feels?](https://www.notion.so/Does-the-weather-dial-get-cranked-over-the-course-of-the-season-or-is-that-just-how-it-feels-c4e53c16d3954367aefb0364782e645f)
+ - [What are some advanced stat names that were never used?](https://www.notion.so/What-are-some-advanced-stat-names-that-were-never-used-f8542a05b2134c57af00901057264e7f)
+ - [Where did the name Nolanestophia come from?](https://www.notion.so/Where-did-the-name-Nolanestophia-come-from-a4bd6d295f5f420ba682fcb7a33f3e2c)
+ - [How do you decide which concessions do what?](https://www.notion.so/How-do-you-decide-which-concessions-do-what-ec230f884b7446e996d956533926143c)
+ - [Where did my squirrel go?](https://www.notion.so/Where-did-my-squirrel-go-e124b57cfd2a4374a4d299538f22700c)
+ - [What went into the Moab Sunbeams becoming the Hellmouith Sunbeams? Was it specific to that team?](https://www.notion.so/What-went-into-the-Moab-Sunbeams-becoming-the-Hellmouith-Sunbeams-Was-it-specific-to-that-team-9b26e136e95740af8f9f4b77fe592a6c)
+ - [We know the Crabs went up or climbed, but when they created a hole by planting their flag, they let in three teams that are down themed. Should we destroy the concept of up and down?](https://www.notion.so/We-know-the-Crabs-went-up-or-climbed-but-when-they-created-a-hole-by-planting-their-flag-they-let--942672bc46b44cafad6e641b67528772)
+ - [In a defense play, is defense rolled across the team and then a player picked, or is a player picked, and then defense rolled?](https://www.notion.so/In-a-defense-play-is-defense-rolled-across-the-team-and-then-a-player-picked-or-is-a-player-picked-e7bdc6d22d8f4057b1071eb2e6c221e2)
+ - [Was evolution always going to do what we know it does now?](https://www.notion.so/Was-evolution-always-going-to-do-what-we-know-it-does-now-9138e5d982b04469a7d06367d5bf7cb6)
+
 ## Opinion Based Blaseball Dev Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [What do you wish we knew about Blaseball that we don't?](https://www.notion.so/What-do-you-wish-we-knew-about-blaseball-that-we-don-t-95e8287da348430489ea1908f2933dcd)
@@ -137,6 +158,18 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [How much blase would a blaseball ball if a blaseball could ball blase?](https://www.notion.so/How-much-blase-would-a-blaseball-ball-if-a-blaseball-could-ball-blase-48782a756cbe4f58b145edf16d2f6cda)
  - [If you could go back to the beginning, what's one structural design you'd like to have in place from the start?](https://www.notion.so/If-you-could-go-back-to-the-beginning-what-s-one-structural-design-you-d-like-to-have-in-place-from-cb68494e81ab4df79858bdecbae8ffd3)
 
+#### [IAB 5 (2021-03-31)](https://www.notion.so/2021-03-31-Inside-a-Blaseball-Q-A-abeaab505e1c417a9b05876e19666d3a)
+ - [What's the most memorable discussions that came up during the season 12 debates](https://www.notion.so/What-s-the-most-memorable-discussions-that-came-up-during-the-season-12-debates-192af4e0fdbe42ad82087e421d3eae59)
+ - [Given that the sim is written in JS, and you're experienced in Unity, how did you learn JS, and what're your favorite quirks](https://www.notion.so/Given-that-the-sim-is-written-in-JS-and-you-re-experienced-in-Unity-how-did-you-learn-JS-and-what-1ec47ab7712f4580b514d6a1180ef459)
+ - [The monitor now has to wear two hats: a hatless hat in the hall, and a chef's hat. How many hats can we expect one squid to wear?](https://www.notion.so/The-monitor-now-has-to-wear-two-hats-a-hatless-hat-in-the-hall-and-a-chef-s-hat-How-many-hats-can-add53c721f504449ae09c6cb7ca6e9db)
+ - [What's Parker's favorite takeout?](https://www.notion.so/What-s-Parker-s-favorite-takeout-ba99268d198c43e1bbbdc0586491b29a)
+ - [The one year anniversary is coming up, do you have any plans](https://www.notion.so/The-one-year-anniversary-is-coming-up-do-you-have-any-plans-0b171cdc7ce94a24993b393fbd578a2c)
+ - [What is the most unexpected thing to happen post-grand siesta?](https://www.notion.so/What-is-the-most-unexpected-thing-to-happen-post-grand-siesta-9ac734108b204eb787cd17f4ac3fe384)
+ - [What's your favorite piece of completely inconsequential lore?](https://www.notion.so/What-s-your-favorite-piece-of-completely-inconsequential-lore-c5343f49a3f44459957735c032982916)
+ - [How are you enjoying the first 3-on 2-off cycle?](https://www.notion.so/How-are-you-enjoying-the-first-3-on-2-off-cycle-7b5c271b0e694f1ab5a4e4f850b17295)
+ - [How would your favorite blaseball player have gone about freeing the big boat](https://www.notion.so/How-would-your-favorite-blaseball-player-have-gone-about-freeing-the-big-boat-7db1ad324fa14d5aacd176123249726c)
+ - [How sanitary is it to eat concessions made by a squid? Does the Monitor wash its hands?](https://www.notion.so/How-sanitary-is-it-to-eat-concessions-made-by-a-squid-Does-the-Monitor-wash-its-hands-ec3ad31d82134680b797371e3132b3fa)
+
 ## Community Oriented Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [what](https://www.notion.so/what-51dba75aed3048699048656ca5cfdf19)
@@ -159,3 +192,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
 #### [IAB 4 (2021-02-25)](https://www.notion.so/2021-02-25-Inside-a-Blaseball-Q-A-12802ac9c93e48c6ac7ac2d5782d2134)
  - [What's your favorite thing the community has created so far?](https://www.notion.so/What-s-your-favorite-thing-the-community-has-created-so-far-8503062f1f214563b8a090b8dd36ad97)
  - [Are TGB aware of SIBR's data crimes? If so, what are your favorites?](https://www.notion.so/Are-TGB-aware-of-SIBR-s-data-crimes-and-if-so-what-are-your-favorites-74d98dd5fe794622a1d1fe535ca30a5b)
+
+#### [IAB 5 (2021-03-31)](https://www.notion.so/2021-03-31-Inside-a-Blaseball-Q-A-abeaab505e1c417a9b05876e19666d3a)
+ - [What are some common misconceptions about Blaseball you've encountered?](https://www.notion.so/What-are-some-common-misconceptions-about-Blaseball-you-ve-encountered-95114e92389e4dfa85a0e8f0b86046a4)
+ - [How cool is that whole Blaseball vinyl? Pretty wild, right?](https://www.notion.so/How-cool-is-that-whole-Blaseball-vinyl-Pretty-wild-right-38339cb212184f8cafeaf56f4d736987)
