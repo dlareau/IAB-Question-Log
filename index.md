@@ -113,7 +113,7 @@ The questions below have been sourced from [Cliff's Q/A Transcript](https://www.
  - [In a defense play, is defense rolled across the team and then a player picked, or is a player picked, and then defense rolled?](https://www.notion.so/In-a-defense-play-is-defense-rolled-across-the-team-and-then-a-player-picked-or-is-a-player-picked-e7bdc6d22d8f4057b1071eb2e6c221e2)
  - [Was evolution always going to do what we know it does now?](https://www.notion.so/Was-evolution-always-going-to-do-what-we-know-it-does-now-9138e5d982b04469a7d06367d5bf7cb6)
 
-## Opinion Based Blaseball Dev Questions
+## Opinion Based Blaseball Dev Questions / Just for Fun Blaseball Questions
 #### [IAB 1 (2020-11-11)](https://www.notion.so/2020-11-11-Inside-a-Blaseball-Q-A-b8d2c73e3d7c4249af040dabffb54422)
  - [What do you wish we knew about Blaseball that we don't?](https://www.notion.so/What-do-you-wish-we-knew-about-blaseball-that-we-don-t-95e8287da348430489ea1908f2933dcd)
  - [What was one of the most delightful bugs/mistakes in Blaseball so far?](https://www.notion.so/One-of-the-most-delightful-bugs-mistakes-in-Blaseball-so-far-53b6cb344d74439a9846a219485c09d4)
